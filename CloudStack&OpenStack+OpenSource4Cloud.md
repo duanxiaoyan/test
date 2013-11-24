@@ -1,4 +1,4 @@
-+# CloudStack&OpenStack #
+ CloudStack&OpenStack
 ====
 
 
